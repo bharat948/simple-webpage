@@ -1,5 +1,7 @@
-# simple-webpage
-# Restaurant Landing Page
+# Node Server
 
-- Used bootstrap tools & own styles.
-- Implemented responsive template.
+## Setup
+- Run `npm install`.
+
+## Usage
+- Start the server with `npm start` and visit `http://localhost:3000`.

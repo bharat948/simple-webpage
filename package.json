@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Simple Node.js Express server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharat948/simple-webpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharat948/simple-webpage/issues"
+  },
+  "homepage": "https://github.com/bharat948/simple-webpage#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
